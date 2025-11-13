@@ -23,10 +23,9 @@ Linear analysis is performed using matrice from step1.
 ==================
 step3_nonlinear.py
 Nonlinear analysis (machine learning) is performed using matrice from step1.
-==========================================================================================
-==========================================================================================
-==========================================================================================
-==========================================================================================
+
+
+
 Anaylsis of 2E peak emission for Cr3+ dependent on pressure
 Here are the files containing the pressure-dependent Cr3+ 2E→4A2 emission positions:
 YAl_2E.xlsx
